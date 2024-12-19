@@ -1,0 +1,68 @@
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.exe.config
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.exe
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.pdb
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.AssemblyReference.cache
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.Properties.Resources.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.GenerateResource.cache
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.exe
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.pdb
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.GirisEkrani.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.OyunEkrani.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.KayitEkrani.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual P.30F002FF.Up2Date
+C:\Users\Ali Han\Desktop\Visual Programming Project\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.DünyaSiralamasi.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.AssemblyReference.cache
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.DünyaSiralamasi.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.GirisEkrani.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.OyunEkrani.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.KayitEkrani.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.Properties.Resources.resources
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.GenerateResource.cache
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.exe
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.pdb
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.exe.config
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.exe
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.pdb
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual P.30F002FF.Up2Date
+C:\Users\Ali Han\Desktop\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.Grafik.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.exe.config
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.exe
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\Visual Programming Project Assignment.pdb
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.AssemblyReference.cache
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.DünyaSiralamasi.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.Grafik.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.GirisEkrani.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.OyunEkrani.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.KayitEkrani.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual_Programming_Project_Assignment.Properties.Resources.resources
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.GenerateResource.cache
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual P.30F002FF.Up2Date
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.exe
+C:\Users\Ali Han\Desktop\Shell Cups 1.1\Visual Programming Project Assignment\Visual Programming Project Assignment\obj\Debug\Visual Programming Project Assignment.pdb
